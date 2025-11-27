@@ -1,0 +1,501 @@
+candidate_id,candidate_name,gender,age,department,job_role,application_date,screening_date,interview_date,offer_date,hiring_date,hiring_status,source_of_hire,experience_years,expected_salary,offered_salary
+C0001,Vivek Jain,Male,24,Sales,Software Engineer,2024-09-29,2024-10-04,2024-10-08,2024-10-10,,Offered,Indeed,4.1,114220,
+C0002,Preeti Kadam,Male,41,Sales,HR Executive,2024-06-05,2024-06-06,2024-06-09,2024-06-15,2024-06-21,Hired,Naukri,1.2,69911,71815.0
+C0003,Raj Iyer,Female,28,Sales,Account Manager,2024-07-01,2024-07-03,2024-07-04,2024-07-09,2024-07-19,Hired,Indeed,0.5,82464,79804.0
+C0004,Mahesh Qureshi,Female,34,Research & Development,HR Executive,2024-06-27,2024-06-30,2024-07-06,2024-07-11,2024-07-13,Hired,Career Page,4.0,101014,103773.0
+C0005,Farhan Sawant,Female,40,Research & Development,HR Executive,2024-03-18,2024-03-21,2024-03-26,,,Interviewed,Website,0.4,76042,
+C0006,Vivek Sharma,Female,28,Human Resource,Research Assistant,2024-04-19,,,,,Applied,Career Page,8.8,95199,
+C0007,Amir Qureshi,Male,33,Human Resource,Data Analyst,2024-02-15,2024-02-17,,,,Screened,Career Page,9.0,113295,
+C0008,Pooja Khan,Female,41,Research & Development,Sales Executive,2024-10-17,2024-10-21,2024-10-23,2024-10-24,2024-10-27,Hired,Career Page,8.9,76893,82499.0
+C0009,Pragati Jain,Male,22,Research & Development,Software Engineer,2024-09-24,2024-09-29,2024-10-01,2024-10-04,,Offered,Naukri,6.3,70526,
+C0010,Karan Jain,Male,32,Sales,HR Executive,2024-07-20,2024-07-23,2024-07-26,,,Interviewed,Indeed,8.8,105804,
+C0011,Farhan Deshmukh,Male,30,Sales,HR Executive,2024-04-05,2024-04-10,2024-04-13,2024-04-18,2024-04-20,Hired,Naukri,10.3,52053,51470.0
+C0012,Vivek Iyer,Male,44,Human Resource,Software Engineer,2024-12-23,2024-12-27,2024-12-31,,,Interviewed,LinkedIn,11.9,86160,
+C0013,Raj More,Male,36,Research & Development,Research Assistant,2024-05-09,2024-05-11,2024-05-18,,,Interviewed,Agency,11.9,106859,
+C0014,Farhan Jain,Female,43,Research & Development,HR Executive,2024-06-18,2024-06-23,2024-06-24,2024-07-01,2024-07-04,Hired,Website,0.0,25678,29231.0
+C0015,Riya Deshmukh,Male,32,Research & Development,Sales Executive,2024-12-30,2025-01-04,2025-01-05,,,Interviewed,Referral,2.9,30501,
+C0016,Amir Sharma,Female,39,Human Resource,Account Manager,2024-01-29,2024-02-01,2024-02-02,2024-02-04,2024-02-14,Hired,Naukri,9.6,94475,94567.0
+C0017,Farhan Qureshi,Female,34,Sales,Sales Executive,2024-02-23,2024-02-27,2024-03-02,2024-03-05,,Offered,Referral,7.2,39013,
+C0018,Shubham Jain,Female,35,Sales,Account Manager,2024-01-15,2024-01-17,2024-01-24,,,Interviewed,Indeed,11.3,107177,
+C0019,Neha Mehta,Female,43,Research & Development,Sales Executive,2024-10-02,2024-10-06,2024-10-13,,,Interviewed,Naukri,6.2,108490,
+C0020,Neha Rao,Male,42,Research & Development,Sales Executive,2024-02-08,2024-02-12,2024-02-13,2024-02-14,2024-02-20,Hired,Website,2.2,50912,55098.0
+C0021,Preeti Kadam,Male,26,Sales,Software Engineer,2024-05-05,2024-05-08,2024-05-15,2024-05-22,2024-05-28,Hired,LinkedIn,11.5,31646,36270.0
+C0022,Mahesh Kadam,Male,41,Human Resource,Sales Executive,2024-01-09,2024-01-14,2024-01-21,2024-01-22,,Offered,Agency,8.1,98387,
+C0023,Mahesh Sharma,Male,39,Research & Development,Sales Executive,2024-10-21,2024-10-23,2024-10-29,2024-11-05,2024-11-12,Hired,Indeed,4.4,54627,60444.0
+C0024,Farhan Naik,Female,41,Human Resource,Software Engineer,2024-03-12,2024-03-16,2024-03-20,,,Interviewed,Agency,2.4,112868,
+C0025,Ayesha Sharma,Male,25,Research & Development,Software Engineer,2024-12-16,2024-12-18,,,,Screened,Website,3.5,35932,
+C0026,Rohit Yadav,Male,44,Research & Development,Data Analyst,2024-02-06,2024-02-10,2024-02-12,2024-02-14,2024-02-20,Hired,Career Page,1.9,38645,38207.0
+C0027,Sahil Yadav,Female,30,Sales,Account Manager,2024-03-26,2024-03-31,2024-04-05,2024-04-10,2024-04-13,Hired,Website,12.0,61059,62024.0
+C0028,Lakshmi More,Female,22,Research & Development,Software Engineer,2024-07-02,2024-07-05,2024-07-09,2024-07-16,,Offered,Referral,10.5,26600,
+C0029,Lakshmi Deshmukh,Male,45,Human Resource,HR Executive,2024-08-13,2024-08-15,2024-08-16,2024-08-18,2024-08-22,Hired,Agency,6.3,106047,108332.0
+C0030,Karan Jain,Female,35,Sales,HR Executive,2024-12-05,,,,,Applied,Career Page,10.5,88813,
+C0031,Farhan Yadav,Female,41,Research & Development,Account Manager,2024-04-16,2024-04-18,2024-04-23,2024-04-26,,Offered,Referral,2.1,68374,
+C0032,Amit Jain,Male,28,Human Resource,HR Executive,2024-10-23,,,,,Applied,Website,10.8,107896,
+C0033,Rohit More,Female,35,Research & Development,HR Executive,2024-09-09,2024-09-14,2024-09-15,2024-09-19,2024-09-26,Hired,Referral,11.9,31374,35323.0
+C0034,Amit Rao,Male,24,Research & Development,Software Engineer,2024-05-04,2024-05-09,2024-05-15,,,Interviewed,Indeed,10.0,38890,
+C0035,Pragati Sawant,Female,39,Sales,Data Analyst,2024-02-28,2024-03-01,2024-03-05,2024-03-06,2024-03-16,Hired,Indeed,10.7,30235,32778.0
+C0036,Karan Kadam,Female,26,Research & Development,Research Assistant,2024-09-04,2024-09-09,,,,Screened,Indeed,4.4,114305,
+C0037,Sahil Gupta,Female,31,Research & Development,Sales Executive,2024-08-09,2024-08-14,,,,Screened,LinkedIn,2.3,26717,
+C0038,Farhan Deshmukh,Male,27,Human Resource,Sales Executive,2024-04-05,2024-04-08,2024-04-09,2024-04-10,2024-04-15,Hired,Naukri,10.5,115190,112768.0
+C0039,Neha More,Female,45,Human Resource,Sales Executive,2024-04-28,2024-05-01,2024-05-06,2024-05-08,2024-05-15,Hired,LinkedIn,9.4,48049,52843.0
+C0040,Lakshmi Khan,Female,41,Human Resource,Sales Executive,2024-09-24,2024-09-29,,,,Screened,LinkedIn,6.6,57508,
+C0041,Sahil Gupta,Female,41,Sales,Research Assistant,2024-12-12,2024-12-17,2024-12-22,2024-12-23,,Offered,Agency,3.4,33994,
+C0042,Preeti Gupta,Female,35,Human Resource,Sales Executive,2024-09-21,2024-09-24,2024-09-29,2024-10-02,2024-10-09,Hired,Career Page,1.3,39674,43686.0
+C0043,Amit Qureshi,Male,25,Sales,Software Engineer,2024-01-02,2024-01-03,2024-01-05,2024-01-07,2024-01-12,Hired,LinkedIn,2.6,65809,69874.0
+C0044,Amit Sharma,Female,29,Research & Development,Software Engineer,2024-02-18,,,,,Applied,Website,10.9,60273,
+C0045,Amir Singh,Male,26,Research & Development,Data Analyst,2024-01-06,2024-01-09,2024-01-14,2024-01-19,2024-01-23,Hired,Naukri,10.7,82992,81025.0
+C0046,Rohit Shetty,Female,40,Sales,Sales Executive,2024-02-21,2024-02-22,2024-02-27,2024-03-03,2024-03-04,Hired,Agency,8.3,59514,57107.0
+C0047,Mahesh Mehta,Male,34,Research & Development,HR Executive,2024-12-01,2024-12-05,2024-12-10,2024-12-12,2024-12-22,Hired,Agency,5.3,28742,27790.0
+C0048,Divya Naik,Male,27,Human Resource,Data Analyst,2024-10-07,2024-10-10,,,,Screened,Indeed,10.3,45443,
+C0049,Ayesha Kadam,Male,41,Sales,Data Analyst,2024-02-15,2024-02-19,2024-02-22,2024-02-25,2024-02-27,Hired,LinkedIn,6.8,60938,58994.0
+C0050,Amit Shetty,Female,32,Sales,Sales Executive,2024-09-07,2024-09-10,,,,Screened,Referral,1.5,81416,
+C0051,Lakshmi Sawant,Male,22,Human Resource,Research Assistant,2024-10-24,2024-10-29,2024-10-30,,,Interviewed,Indeed,1.2,48786,
+C0052,Lakshmi Sawant,Female,33,Sales,Research Assistant,2024-04-04,2024-04-06,,,,Screened,Referral,11.5,76295,
+C0053,Lakshmi Kadam,Female,32,Sales,Sales Executive,2024-04-27,2024-05-02,2024-05-07,,,Interviewed,Naukri,6.5,33378,
+C0054,Pooja Patil,Female,26,Human Resource,Software Engineer,2024-03-10,2024-03-14,2024-03-17,,,Interviewed,Career Page,4.6,116710,
+C0055,Ayesha Rao,Male,26,Human Resource,Data Analyst,2024-07-11,2024-07-13,2024-07-20,2024-07-27,2024-08-01,Hired,Indeed,3.1,110982,111303.0
+C0056,Lakshmi Sawant,Female,31,Sales,Research Assistant,2024-06-29,2024-07-04,2024-07-07,2024-07-08,2024-07-18,Hired,Career Page,1.3,111745,113172.0
+C0057,Shubham Yadav,Male,33,Research & Development,Data Analyst,2024-04-21,2024-04-26,2024-04-29,2024-04-30,2024-05-06,Hired,Agency,0.5,74392,81122.0
+C0058,Preeti Naik,Female,26,Sales,Data Analyst,2024-04-04,2024-04-08,2024-04-12,,,Interviewed,Referral,0.3,77192,
+C0059,Farhan Sawant,Male,43,Human Resource,Software Engineer,2024-02-04,2024-02-07,2024-02-10,2024-02-13,,Offered,Website,2.8,53335,
+C0060,Raj Sharma,Male,26,Human Resource,Data Analyst,2024-04-17,2024-04-22,2024-04-26,,,Interviewed,Indeed,6.7,96023,
+C0061,Farhan Khan,Female,36,Research & Development,Data Analyst,2024-12-17,,,,,Applied,Career Page,0.8,69548,
+C0062,Sahil Kadam,Female,43,Sales,Account Manager,2024-04-01,2024-04-04,2024-04-05,2024-04-10,2024-04-17,Hired,Career Page,1.5,38723,39080.0
+C0063,Lakshmi Iyer,Female,44,Human Resource,Software Engineer,2024-09-06,2024-09-08,2024-09-13,2024-09-20,2024-09-30,Hired,Agency,0.9,108801,113115.0
+C0064,Manish Patil,Female,45,Research & Development,Software Engineer,2024-07-10,2024-07-14,2024-07-20,2024-07-25,2024-07-27,Hired,Indeed,6.9,58261,63503.0
+C0065,Neha Shetty,Female,37,Research & Development,HR Executive,2024-11-07,2024-11-08,2024-11-15,2024-11-16,2024-11-25,Hired,Website,1.1,75442,74349.0
+C0066,Rohit Shetty,Female,23,Sales,Software Engineer,2024-12-07,2024-12-12,2024-12-17,2024-12-18,2024-12-26,Hired,Website,5.9,38657,40087.0
+C0067,Karan Qureshi,Male,23,Human Resource,Research Assistant,2024-11-12,2024-11-16,2024-11-19,2024-11-25,2024-11-30,Hired,Agency,4.1,105253,103563.0
+C0068,Mahesh Singh,Female,33,Research & Development,Data Analyst,2024-11-05,2024-11-07,,,,Screened,Agency,4.4,43890,
+C0069,Mahesh Khan,Male,35,Human Resource,Account Manager,2024-02-12,2024-02-15,,,,Screened,LinkedIn,6.6,114330,
+C0070,Farhan Sawant,Female,27,Human Resource,Sales Executive,2024-06-05,2024-06-08,2024-06-12,,,Interviewed,LinkedIn,9.7,93198,
+C0071,Karan Sawant,Male,42,Sales,Software Engineer,2024-12-29,2025-01-02,2025-01-03,2025-01-04,2025-01-13,Hired,Career Page,6.2,28874,26374.0
+C0072,Raj Deshmukh,Male,30,Human Resource,Account Manager,2024-08-10,2024-08-12,2024-08-13,,,Interviewed,Website,3.5,108571,
+C0073,Sneha More,Female,42,Research & Development,Account Manager,2024-09-15,2024-09-19,2024-09-25,2024-09-30,2024-10-07,Hired,Indeed,6.3,55513,53420.0
+C0074,Amit Jain,Female,38,Human Resource,Research Assistant,2024-02-23,2024-02-26,2024-03-02,2024-03-09,2024-03-12,Hired,LinkedIn,3.0,47290,52269.0
+C0075,Karan Naik,Female,22,Human Resource,Research Assistant,2024-06-16,,,,,Applied,Career Page,3.6,32571,
+C0076,Karan Gupta,Female,35,Sales,Research Assistant,2024-02-13,2024-02-15,2024-02-17,2024-02-24,2024-02-29,Hired,Indeed,0.4,72733,79558.0
+C0077,Riya Kadam,Male,31,Sales,Sales Executive,2024-09-10,2024-09-11,2024-09-17,2024-09-19,2024-09-20,Hired,Website,6.1,114753,119865.0
+C0078,Pooja More,Male,28,Sales,Sales Executive,2024-04-02,2024-04-06,2024-04-11,2024-04-18,2024-04-20,Hired,Website,2.7,110702,110145.0
+C0079,Lakshmi Deshmukh,Male,35,Sales,HR Executive,2024-05-15,2024-05-20,2024-05-23,2024-05-24,,Offered,LinkedIn,9.7,109196,
+C0080,Karan Qureshi,Male,42,Sales,Data Analyst,2024-11-19,,,,,Applied,Career Page,10.4,59155,
+C0081,Manish Patil,Female,30,Research & Development,Software Engineer,2024-10-24,2024-10-25,2024-11-01,,,Interviewed,LinkedIn,6.3,82706,
+C0082,Pooja Mehta,Female,39,Research & Development,Sales Executive,2024-05-03,2024-05-06,2024-05-13,2024-05-18,2024-05-25,Hired,Naukri,1.5,50565,53255.0
+C0083,Raj Khan,Male,42,Sales,Sales Executive,2024-02-08,2024-02-12,2024-02-15,2024-02-20,,Offered,LinkedIn,4.2,25578,
+C0084,Lakshmi Qureshi,Male,38,Research & Development,Sales Executive,2024-12-21,2024-12-23,2024-12-30,,,Interviewed,Naukri,2.9,33983,
+C0085,Neha Naik,Male,44,Human Resource,Data Analyst,2024-10-31,2024-11-03,,,,Screened,Career Page,5.6,64291,
+C0086,Shubham Patil,Male,38,Human Resource,Research Assistant,2024-05-04,,,,,Applied,Website,7.8,35031,
+C0087,Mahesh Sawant,Female,42,Human Resource,HR Executive,2024-10-25,2024-10-26,,,,Screened,LinkedIn,11.1,95326,
+C0088,Amir Yadav,Female,40,Sales,Sales Executive,2024-06-30,2024-07-01,2024-07-08,2024-07-15,2024-07-16,Hired,Naukri,10.9,37098,40920.0
+C0089,Amit Naik,Female,31,Research & Development,Account Manager,2024-07-26,2024-07-30,2024-07-31,2024-08-07,2024-08-14,Hired,LinkedIn,11.1,44082,45842.0
+C0090,Neha Shetty,Female,36,Research & Development,Account Manager,2024-05-19,,,,,Applied,Referral,2.6,49093,
+C0091,Amit Rao,Female,21,Human Resource,Research Assistant,2024-02-19,2024-02-20,2024-02-25,,,Interviewed,LinkedIn,7.5,75899,
+C0092,Amit Shetty,Male,26,Research & Development,Data Analyst,2024-10-04,2024-10-08,2024-10-14,2024-10-15,2024-10-16,Hired,Agency,7.6,57755,64622.0
+C0093,Shubham Deshmukh,Male,41,Human Resource,Software Engineer,2024-08-16,2024-08-19,2024-08-21,,,Interviewed,Agency,5.3,55601,
+C0094,Amit Kadam,Female,21,Research & Development,HR Executive,2024-11-02,2024-11-05,,,,Screened,LinkedIn,8.9,57426,
+C0095,Pragati Naik,Male,31,Sales,Data Analyst,2024-02-29,2024-03-01,,,,Screened,LinkedIn,0.5,61524,
+C0096,Farhan Sawant,Female,44,Human Resource,Software Engineer,2024-02-09,2024-02-12,2024-02-16,2024-02-17,2024-02-27,Hired,Indeed,8.6,78589,79357.0
+C0097,Raj More,Male,24,Research & Development,Research Assistant,2024-01-23,2024-01-28,2024-01-29,,,Interviewed,Indeed,2.4,65243,
+C0098,Preeti Shetty,Male,40,Sales,Software Engineer,2024-06-04,2024-06-05,2024-06-06,,,Interviewed,Career Page,4.5,50518,
+C0099,Pooja Naik,Male,40,Human Resource,Account Manager,2024-06-25,2024-06-29,2024-07-02,2024-07-07,2024-07-17,Hired,Indeed,8.6,42159,46180.0
+C0100,Amit Khan,Female,45,Human Resource,Account Manager,2024-10-06,2024-10-10,,,,Screened,Naukri,8.2,76774,
+C0101,Shubham Rao,Male,30,Human Resource,Software Engineer,2024-02-03,2024-02-04,,,,Screened,Agency,6.6,118578,
+C0102,Preeti Gupta,Female,45,Human Resource,Research Assistant,2024-03-11,2024-03-16,,,,Screened,Indeed,0.5,47245,
+C0103,Farhan Rao,Male,32,Research & Development,Account Manager,2024-07-05,,,,,Applied,Agency,10.6,98682,
+C0104,Sneha Mehta,Male,36,Human Resource,Research Assistant,2024-01-17,2024-01-18,2024-01-25,,,Interviewed,Website,4.7,32970,
+C0105,Pooja Deshmukh,Male,37,Human Resource,Account Manager,2024-06-30,2024-07-04,2024-07-10,2024-07-16,2024-07-23,Hired,Website,4.0,77458,75030.0
+C0106,Shubham Yadav,Female,24,Research & Development,HR Executive,2024-03-01,2024-03-05,2024-03-12,2024-03-16,2024-03-25,Hired,Naukri,8.8,28732,28439.0
+C0107,Shubham Kadam,Male,33,Human Resource,Account Manager,2024-04-06,2024-04-09,,,,Screened,LinkedIn,9.1,40758,
+C0108,Lakshmi Qureshi,Female,27,Research & Development,Research Assistant,2024-01-26,2024-01-27,2024-01-30,2024-01-31,2024-02-06,Hired,Indeed,6.7,61289,64016.0
+C0109,Neha Gupta,Male,29,Sales,Account Manager,2024-08-31,2024-09-01,2024-09-08,2024-09-12,2024-09-17,Hired,LinkedIn,1.8,50200,57007.0
+C0110,Sneha Yadav,Male,44,Human Resource,Account Manager,2024-11-20,2024-11-24,2024-12-01,2024-12-02,2024-12-09,Hired,Agency,10.5,87194,89703.0
+C0111,Karan Yadav,Female,25,Sales,Data Analyst,2024-10-28,2024-10-29,,,,Screened,LinkedIn,10.3,45781,
+C0112,Riya Singh,Female,45,Human Resource,Data Analyst,2024-04-26,2024-04-28,,,,Screened,Naukri,6.8,111103,
+C0113,Sneha Naik,Female,44,Human Resource,Sales Executive,2024-07-07,,,,,Applied,Referral,3.1,39668,
+C0114,Amir Khan,Female,38,Human Resource,HR Executive,2024-03-29,2024-03-31,2024-04-01,,,Interviewed,Website,7.3,78658,
+C0115,Vivek Gupta,Female,35,Human Resource,HR Executive,2024-11-13,,,,,Applied,Career Page,11.4,29296,
+C0116,Neha Sharma,Female,42,Human Resource,Software Engineer,2024-09-12,2024-09-16,2024-09-18,2024-09-23,2024-10-03,Hired,Agency,10.7,83558,80784.0
+C0117,Karan Shetty,Male,24,Sales,Software Engineer,2024-01-12,2024-01-15,2024-01-22,2024-01-24,2024-01-30,Hired,Naukri,8.2,36308,40566.0
+C0118,Raj Jain,Female,27,Sales,Research Assistant,2024-04-15,2024-04-17,,,,Screened,Indeed,10.4,103541,
+C0119,Neha Kadam,Male,22,Sales,Data Analyst,2024-09-24,2024-09-29,2024-09-30,2024-10-04,2024-10-13,Hired,Naukri,5.1,54600,53457.0
+C0120,Preeti Yadav,Female,32,Human Resource,Research Assistant,2024-09-27,2024-09-28,2024-10-04,,,Interviewed,LinkedIn,9.7,88811,
+C0121,Ayesha Rao,Female,21,Human Resource,Sales Executive,2024-11-03,2024-11-05,2024-11-09,2024-11-13,2024-11-20,Hired,LinkedIn,8.8,102214,101923.0
+C0122,Farhan Gupta,Female,33,Sales,Account Manager,2024-06-08,2024-06-11,2024-06-12,2024-06-15,2024-06-23,Hired,Website,0.3,50150,49685.0
+C0123,Lakshmi Shetty,Female,27,Sales,Sales Executive,2024-08-18,,,,,Applied,Website,0.6,110355,
+C0124,Riya Shetty,Male,26,Human Resource,Software Engineer,2024-01-20,2024-01-22,2024-01-23,2024-01-25,2024-01-27,Hired,Career Page,9.3,56215,53742.0
+C0125,Sahil Deshmukh,Female,36,Sales,Software Engineer,2024-05-28,2024-05-30,2024-06-03,,,Interviewed,Naukri,7.1,90263,
+C0126,Karan Sawant,Male,27,Human Resource,Software Engineer,2024-11-29,2024-12-02,2024-12-06,2024-12-08,2024-12-15,Hired,LinkedIn,8.8,40826,39716.0
+C0127,Raj Qureshi,Female,32,Sales,Data Analyst,2024-08-19,2024-08-24,2024-08-27,2024-09-03,2024-09-06,Hired,Indeed,1.1,108755,112260.0
+C0128,Neha Patil,Female,35,Research & Development,Account Manager,2024-12-20,2024-12-25,2025-01-01,,,Interviewed,Referral,0.7,33070,
+C0129,Lakshmi Sawant,Female,34,Human Resource,Research Assistant,2024-11-07,2024-11-09,2024-11-12,2024-11-18,,Offered,Website,7.7,64894,
+C0130,Pooja Gupta,Female,30,Human Resource,Research Assistant,2024-09-28,2024-10-03,2024-10-04,,,Interviewed,Indeed,7.1,62093,
+C0131,Pooja Yadav,Male,40,Research & Development,Research Assistant,2024-02-07,,,,,Applied,Agency,4.0,110730,
+C0132,Neha Naik,Male,35,Research & Development,Research Assistant,2024-03-17,2024-03-22,2024-03-29,2024-03-30,2024-04-06,Hired,LinkedIn,3.5,96837,96814.0
+C0133,Amir Mehta,Female,30,Research & Development,Research Assistant,2024-06-12,,,,,Applied,Indeed,1.3,58597,
+C0134,Mahesh Jain,Female,24,Human Resource,Data Analyst,2024-12-14,2024-12-18,2024-12-21,,,Interviewed,Career Page,1.6,94489,
+C0135,Lakshmi Gupta,Male,42,Research & Development,Account Manager,2024-06-15,2024-06-20,2024-06-21,2024-06-25,,Offered,LinkedIn,7.4,76548,
+C0136,Mahesh Gupta,Male,27,Sales,Account Manager,2024-02-07,2024-02-09,,,,Screened,Naukri,5.4,75270,
+C0137,Shubham More,Female,34,Research & Development,Software Engineer,2024-08-03,2024-08-05,2024-08-10,2024-08-16,2024-08-26,Hired,Naukri,2.4,53144,56549.0
+C0138,Riya Qureshi,Male,36,Research & Development,Software Engineer,2024-09-16,2024-09-21,2024-09-23,2024-09-25,2024-09-27,Hired,Agency,8.6,92753,93915.0
+C0139,Manish Khan,Male,32,Sales,Account Manager,2024-11-14,2024-11-18,2024-11-21,,,Interviewed,Naukri,5.4,118848,
+C0140,Neha Kadam,Female,31,Research & Development,Research Assistant,2024-07-06,2024-07-11,2024-07-14,2024-07-21,2024-07-27,Hired,Career Page,10.8,64509,64977.0
+C0141,Riya Naik,Male,29,Research & Development,Data Analyst,2024-04-16,2024-04-20,2024-04-26,2024-04-30,2024-05-09,Hired,Agency,1.0,113464,115590.0
+C0142,Farhan Singh,Male,44,Human Resource,Software Engineer,2024-08-03,2024-08-08,2024-08-13,2024-08-14,2024-08-18,Hired,LinkedIn,3.4,50354,48111.0
+C0143,Raj Kadam,Male,26,Research & Development,HR Executive,2024-05-03,2024-05-04,2024-05-07,2024-05-10,2024-05-11,Hired,Website,0.7,30480,30604.0
+C0144,Pragati Patil,Male,39,Research & Development,HR Executive,2024-03-12,2024-03-16,2024-03-19,2024-03-25,2024-04-03,Hired,LinkedIn,12.0,32489,29804.0
+C0145,Rohit Sawant,Male,42,Human Resource,Research Assistant,2024-10-10,2024-10-14,,,,Screened,Naukri,6.4,89079,
+C0146,Amit Gupta,Male,23,Research & Development,Account Manager,2024-07-08,2024-07-10,2024-07-16,2024-07-19,2024-07-28,Hired,Agency,8.2,65093,66304.0
+C0147,Lakshmi Gupta,Male,34,Research & Development,Sales Executive,2024-12-14,2024-12-19,,,,Screened,Career Page,5.1,89041,
+C0148,Vivek Kadam,Male,31,Research & Development,Sales Executive,2024-07-03,2024-07-07,2024-07-10,2024-07-13,,Offered,Career Page,9.1,26550,
+C0149,Shubham More,Female,39,Research & Development,Data Analyst,2024-05-14,2024-05-16,2024-05-18,2024-05-24,2024-05-26,Hired,Referral,8.8,76182,81530.0
+C0150,Sahil Qureshi,Male,45,Research & Development,Research Assistant,2024-10-12,2024-10-14,2024-10-19,,,Interviewed,Referral,5.4,64530,
+C0151,Preeti Sharma,Male,33,Research & Development,Account Manager,2024-01-14,2024-01-15,2024-01-18,2024-01-19,2024-01-21,Hired,Naukri,5.5,39672,38910.0
+C0152,Divya Sawant,Male,30,Human Resource,Research Assistant,2024-07-20,,,,,Applied,LinkedIn,4.1,96458,
+C0153,Preeti Deshmukh,Male,43,Research & Development,Account Manager,2024-12-06,2024-12-07,2024-12-14,2024-12-16,2024-12-18,Hired,LinkedIn,6.7,49041,50069.0
+C0154,Shubham Kadam,Female,42,Research & Development,Software Engineer,2024-02-07,2024-02-12,2024-02-13,2024-02-17,2024-02-18,Hired,Career Page,6.0,51846,58765.0
+C0155,Sneha Shetty,Female,43,Sales,Research Assistant,2024-06-07,2024-06-08,2024-06-09,2024-06-15,2024-06-19,Hired,Agency,3.3,33581,34055.0
+C0156,Mahesh Naik,Male,27,Research & Development,Research Assistant,2024-07-12,2024-07-17,2024-07-18,2024-07-24,,Offered,Website,3.2,59911,
+C0157,Rohit Sharma,Female,34,Research & Development,Sales Executive,2024-06-06,2024-06-08,2024-06-12,2024-06-17,2024-06-19,Hired,Referral,3.2,113735,111214.0
+C0158,Vivek Jain,Male,35,Human Resource,Account Manager,2024-10-19,2024-10-21,,,,Screened,Career Page,6.2,113995,
+C0159,Neha Sharma,Female,42,Human Resource,Data Analyst,2024-01-04,2024-01-09,2024-01-12,2024-01-17,2024-01-23,Hired,LinkedIn,9.1,103245,105509.0
+C0160,Amit Khan,Male,21,Sales,Software Engineer,2024-03-14,2024-03-17,,,,Screened,Referral,5.2,73627,
+C0161,Shubham Yadav,Male,45,Research & Development,Research Assistant,2024-09-05,2024-09-09,2024-09-15,2024-09-18,2024-09-22,Hired,LinkedIn,7.2,105933,112824.0
+C0162,Raj Gupta,Female,24,Human Resource,Account Manager,2024-12-06,2024-12-11,2024-12-14,2024-12-18,,Offered,Agency,0.3,53218,
+C0163,Raj Iyer,Female,44,Sales,Sales Executive,2024-03-17,2024-03-20,2024-03-25,,,Interviewed,Career Page,8.6,81288,
+C0164,Ayesha Khan,Female,24,Human Resource,Software Engineer,2024-03-05,2024-03-09,2024-03-10,2024-03-14,2024-03-18,Hired,LinkedIn,3.6,56036,62642.0
+C0165,Preeti Sharma,Male,21,Research & Development,Sales Executive,2024-10-04,2024-10-09,,,,Screened,Career Page,7.0,118982,
+C0166,Rohit Mehta,Male,21,Human Resource,Research Assistant,2024-08-31,2024-09-05,2024-09-10,2024-09-12,2024-09-21,Hired,Agency,1.9,82301,87844.0
+C0167,Riya Deshmukh,Male,27,Sales,Sales Executive,2024-08-23,2024-08-26,2024-08-30,,,Interviewed,Agency,10.2,42309,
+C0168,Sahil Shetty,Male,22,Research & Development,HR Executive,2024-03-03,2024-03-07,2024-03-13,2024-03-19,2024-03-25,Hired,Naukri,8.0,25973,28491.0
+C0169,Vivek Rao,Female,23,Human Resource,Account Manager,2024-10-20,2024-10-21,2024-10-27,2024-10-29,2024-11-05,Hired,Website,3.1,71365,74579.0
+C0170,Lakshmi More,Female,32,Research & Development,Research Assistant,2024-03-17,2024-03-22,2024-03-28,,,Interviewed,Referral,4.0,83531,
+C0171,Pooja Khan,Male,25,Research & Development,Account Manager,2024-01-30,2024-02-04,2024-02-09,2024-02-14,2024-02-22,Hired,Referral,10.0,81639,81013.0
+C0172,Mahesh Yadav,Male,37,Sales,Research Assistant,2024-12-23,,,,,Applied,Naukri,8.0,86579,
+C0173,Preeti Naik,Female,38,Research & Development,Research Assistant,2024-01-19,2024-01-20,,,,Screened,Naukri,2.8,69668,
+C0174,Pragati Jain,Male,31,Research & Development,Data Analyst,2024-08-13,2024-08-16,2024-08-18,2024-08-21,2024-08-31,Hired,LinkedIn,1.0,64494,64380.0
+C0175,Pooja Mehta,Female,24,Human Resource,Sales Executive,2024-09-14,,,,,Applied,Indeed,7.5,60990,
+C0176,Pooja Singh,Male,43,Human Resource,Research Assistant,2024-11-29,2024-12-04,2024-12-08,,,Interviewed,Indeed,10.7,90823,
+C0177,Raj Yadav,Male,43,Human Resource,HR Executive,2024-10-06,2024-10-10,2024-10-14,2024-10-20,2024-10-27,Hired,Indeed,2.8,70733,69229.0
+C0178,Shubham Shetty,Female,44,Sales,Data Analyst,2024-06-14,2024-06-17,,,,Screened,Indeed,11.4,25872,
+C0179,Sahil Singh,Female,44,Research & Development,Account Manager,2024-01-12,2024-01-15,2024-01-20,2024-01-24,2024-01-29,Hired,Agency,3.8,48848,49465.0
+C0180,Amit Singh,Male,34,Human Resource,Sales Executive,2024-10-24,2024-10-25,2024-10-28,2024-11-01,,Offered,Career Page,7.4,108174,
+C0181,Riya Jain,Male,30,Sales,Research Assistant,2024-05-28,,,,,Applied,Naukri,7.1,106594,
+C0182,Lakshmi Khan,Male,32,Sales,Research Assistant,2024-05-21,2024-05-23,2024-05-28,,,Interviewed,Website,0.6,32966,
+C0183,Pooja Khan,Female,38,Sales,Software Engineer,2024-12-16,,,,,Applied,Agency,1.5,77365,
+C0184,Karan Patil,Female,33,Human Resource,Software Engineer,2024-11-22,,,,,Applied,Indeed,3.4,115930,
+C0185,Mahesh Mehta,Male,32,Human Resource,Sales Executive,2024-06-27,2024-06-30,,,,Screened,Indeed,2.5,89955,
+C0186,Neha Singh,Male,33,Human Resource,Research Assistant,2024-09-10,2024-09-15,2024-09-21,2024-09-22,2024-09-28,Hired,Agency,10.6,94824,92916.0
+C0187,Riya Singh,Male,21,Human Resource,Software Engineer,2024-05-01,,,,,Applied,Career Page,0.1,87169,
+C0188,Shubham Sawant,Male,25,Human Resource,HR Executive,2024-10-07,2024-10-10,2024-10-13,,,Interviewed,Indeed,0.3,31825,
+C0189,Preeti Patil,Female,42,Research & Development,Sales Executive,2024-07-26,2024-07-29,2024-08-05,,,Interviewed,Career Page,2.1,41655,
+C0190,Vivek Sawant,Female,24,Human Resource,Software Engineer,2024-04-25,2024-04-27,2024-04-28,2024-05-05,2024-05-12,Hired,Agency,6.0,94268,92642.0
+C0191,Sahil Shetty,Female,40,Human Resource,Software Engineer,2024-12-04,2024-12-06,2024-12-11,2024-12-18,2024-12-22,Hired,Naukri,6.4,74327,79081.0
+C0192,Neha Rao,Female,42,Research & Development,Data Analyst,2024-12-30,2025-01-01,2025-01-02,2025-01-04,2025-01-06,Hired,Indeed,6.5,60546,58120.0
+C0193,Preeti Mehta,Female,23,Sales,Software Engineer,2024-04-15,2024-04-18,,,,Screened,Website,2.5,81807,
+C0194,Pooja Mehta,Male,26,Research & Development,HR Executive,2024-09-29,2024-10-02,2024-10-08,,,Interviewed,Referral,11.8,52340,
+C0195,Amir More,Male,21,Sales,Data Analyst,2024-04-27,,,,,Applied,Career Page,6.0,96272,
+C0196,Rohit Patil,Male,23,Sales,Data Analyst,2024-12-10,2024-12-13,,,,Screened,Indeed,4.9,100224,
+C0197,Preeti Jain,Female,43,Sales,Software Engineer,2024-12-26,2024-12-31,2025-01-04,2025-01-05,2025-01-10,Hired,Referral,2.2,77484,79187.0
+C0198,Mahesh Qureshi,Female,26,Human Resource,Data Analyst,2024-09-02,2024-09-04,2024-09-09,,,Interviewed,Agency,11.9,48614,
+C0199,Shubham Sharma,Male,41,Research & Development,Account Manager,2024-01-04,2024-01-05,,,,Screened,Website,2.7,107439,
+C0200,Shubham Mehta,Female,29,Research & Development,Software Engineer,2024-12-10,2024-12-11,2024-12-12,2024-12-18,2024-12-23,Hired,Naukri,1.1,40961,41350.0
+C0201,Shubham Patil,Female,25,Sales,Account Manager,2024-04-11,2024-04-14,2024-04-21,2024-04-24,2024-04-30,Hired,LinkedIn,1.0,51745,53221.0
+C0202,Riya Kadam,Female,24,Sales,Research Assistant,2024-08-05,,,,,Applied,Agency,9.7,36910,
+C0203,Shubham Qureshi,Female,40,Sales,Data Analyst,2024-05-12,2024-05-14,2024-05-18,,,Interviewed,Referral,5.1,68994,
+C0204,Raj Kadam,Male,29,Research & Development,Account Manager,2024-01-16,,,,,Applied,Website,9.8,115585,
+C0205,Karan Sharma,Male,42,Sales,Software Engineer,2024-05-15,2024-05-18,2024-05-25,2024-05-27,2024-06-02,Hired,LinkedIn,1.4,39444,43956.0
+C0206,Neha Mehta,Female,39,Sales,HR Executive,2024-01-17,2024-01-20,2024-01-26,,,Interviewed,Referral,0.1,69232,
+C0207,Pragati Iyer,Male,21,Sales,Account Manager,2024-05-19,2024-05-21,2024-05-24,2024-05-29,2024-05-30,Hired,Website,1.6,76069,79838.0
+C0208,Raj Patil,Male,37,Human Resource,HR Executive,2024-12-13,2024-12-18,2024-12-20,2024-12-25,,Offered,Referral,7.7,54810,
+C0209,Lakshmi Patil,Female,37,Human Resource,Account Manager,2024-10-29,2024-10-31,2024-11-04,2024-11-06,2024-11-14,Hired,Website,4.4,57831,62644.0
+C0210,Sahil More,Male,40,Research & Development,Data Analyst,2024-10-03,2024-10-05,2024-10-06,,,Interviewed,Agency,8.8,73252,
+C0211,Sneha Kadam,Female,26,Research & Development,Sales Executive,2024-09-18,2024-09-23,2024-09-26,,,Interviewed,Referral,3.8,95046,
+C0212,Lakshmi Patil,Female,39,Human Resource,Software Engineer,2024-12-26,,,,,Applied,Website,4.4,119747,
+C0213,Ayesha Patil,Male,29,Sales,Research Assistant,2024-04-14,2024-04-16,2024-04-20,2024-04-26,2024-05-03,Hired,Agency,8.5,90041,94844.0
+C0214,Rohit Qureshi,Female,30,Research & Development,HR Executive,2024-04-21,2024-04-24,2024-04-30,2024-05-07,,Offered,Indeed,3.1,84263,
+C0215,Vivek Shetty,Female,38,Human Resource,Sales Executive,2024-01-06,2024-01-09,,,,Screened,Website,2.5,115505,
+C0216,Amir Patil,Female,24,Sales,Research Assistant,2024-12-02,2024-12-04,,,,Screened,Indeed,3.1,68189,
+C0217,Mahesh Shetty,Female,38,Research & Development,HR Executive,2024-07-10,2024-07-11,2024-07-17,2024-07-18,,Offered,Naukri,10.5,27070,
+C0218,Karan More,Male,40,Human Resource,Sales Executive,2024-01-01,2024-01-04,2024-01-07,2024-01-09,2024-01-14,Hired,LinkedIn,1.0,64678,64413.0
+C0219,Farhan Singh,Male,33,Sales,Sales Executive,2024-11-27,2024-12-02,2024-12-03,2024-12-07,2024-12-10,Hired,Naukri,7.9,86535,86109.0
+C0220,Rohit Patil,Male,44,Human Resource,Data Analyst,2024-09-08,2024-09-09,2024-09-14,,,Interviewed,Career Page,6.2,118085,
+C0221,Ayesha Sawant,Female,38,Sales,Sales Executive,2024-04-30,2024-05-04,2024-05-08,2024-05-11,,Offered,Indeed,12.0,103733,
+C0222,Amit Rao,Male,23,Human Resource,Software Engineer,2024-07-19,2024-07-22,,,,Screened,Website,0.1,48366,
+C0223,Ayesha Rao,Female,43,Sales,HR Executive,2024-11-19,2024-11-22,2024-11-24,2024-12-01,2024-12-02,Hired,Naukri,11.4,83086,80404.0
+C0224,Preeti Mehta,Male,21,Human Resource,HR Executive,2024-01-02,2024-01-03,2024-01-06,2024-01-12,,Offered,Website,11.3,105048,
+C0225,Amit More,Female,44,Research & Development,Data Analyst,2024-08-15,2024-08-16,2024-08-22,2024-08-24,2024-08-28,Hired,Agency,8.9,54885,55231.0
+C0226,Shubham Shetty,Female,25,Sales,Research Assistant,2024-07-19,2024-07-22,2024-07-25,2024-07-31,2024-08-10,Hired,Naukri,3.1,114314,115836.0
+C0227,Shubham Khan,Female,29,Sales,Software Engineer,2024-06-16,2024-06-18,,,,Screened,Career Page,8.8,46293,
+C0228,Farhan Patil,Male,38,Sales,Data Analyst,2024-02-05,2024-02-07,2024-02-13,2024-02-14,2024-02-19,Hired,Website,11.1,67337,70928.0
+C0229,Manish Deshmukh,Male,36,Sales,Research Assistant,2024-09-24,2024-09-25,2024-10-02,2024-10-04,2024-10-06,Hired,Website,2.1,33624,31413.0
+C0230,Manish Deshmukh,Female,33,Human Resource,Sales Executive,2024-07-19,2024-07-23,2024-07-29,2024-08-01,2024-08-04,Hired,Naukri,10.6,88882,93519.0
+C0231,Neha Jain,Male,42,Research & Development,Account Manager,2024-05-24,2024-05-27,2024-05-31,,,Interviewed,Naukri,1.5,102660,
+C0232,Karan Rao,Female,44,Human Resource,Data Analyst,2024-03-17,2024-03-19,2024-03-23,2024-03-25,2024-03-28,Hired,Indeed,3.4,101325,105106.0
+C0233,Raj Singh,Female,33,Sales,Software Engineer,2024-03-18,2024-03-23,2024-03-25,2024-03-29,2024-04-06,Hired,Website,3.2,65172,72058.0
+C0234,Divya Patil,Male,29,Research & Development,Sales Executive,2024-04-11,2024-04-13,2024-04-19,2024-04-22,2024-04-30,Hired,LinkedIn,3.5,70786,76583.0
+C0235,Sahil Shetty,Male,43,Human Resource,Account Manager,2024-06-11,2024-06-16,2024-06-20,2024-06-23,2024-06-26,Hired,Naukri,7.9,28674,26445.0
+C0236,Rohit Sharma,Female,32,Human Resource,Account Manager,2024-08-17,2024-08-20,2024-08-21,2024-08-28,2024-09-06,Hired,Naukri,5.2,67510,71966.0
+C0237,Neha Rao,Female,40,Sales,Sales Executive,2024-11-02,2024-11-03,2024-11-04,2024-11-07,2024-11-08,Hired,LinkedIn,10.9,62732,68689.0
+C0238,Neha Mehta,Female,26,Research & Development,Account Manager,2024-10-06,2024-10-09,2024-10-11,2024-10-13,2024-10-19,Hired,Indeed,9.8,103397,105189.0
+C0239,Pragati Kadam,Female,25,Sales,HR Executive,2024-11-24,2024-11-28,2024-12-03,2024-12-06,,Offered,Career Page,10.7,118780,
+C0240,Sahil Yadav,Female,28,Research & Development,Software Engineer,2024-09-10,2024-09-11,2024-09-14,2024-09-15,,Offered,LinkedIn,7.9,82377,
+C0241,Farhan Khan,Male,36,Research & Development,Data Analyst,2024-11-10,2024-11-11,,,,Screened,Agency,0.9,67515,
+C0242,Ayesha Patil,Female,37,Research & Development,Software Engineer,2024-05-09,2024-05-11,,,,Screened,Naukri,3.8,36209,
+C0243,Ayesha Jain,Female,38,Human Resource,Account Manager,2024-08-24,2024-08-29,2024-09-01,,,Interviewed,Indeed,3.5,103561,
+C0244,Mahesh Sawant,Male,22,Sales,Software Engineer,2024-06-04,2024-06-08,2024-06-09,2024-06-12,2024-06-16,Hired,LinkedIn,10.4,29784,31543.0
+C0245,Sahil Rao,Female,38,Sales,Research Assistant,2024-12-13,,,,,Applied,Referral,1.2,36668,
+C0246,Divya Sawant,Female,29,Human Resource,Sales Executive,2024-05-07,,,,,Applied,LinkedIn,3.5,87635,
+C0247,Amir Jain,Female,27,Research & Development,Account Manager,2024-05-27,2024-05-30,2024-06-02,2024-06-09,2024-06-19,Hired,LinkedIn,4.6,71065,72384.0
+C0248,Preeti Shetty,Male,21,Sales,Account Manager,2024-04-18,2024-04-21,2024-04-24,2024-04-30,2024-05-10,Hired,Career Page,3.7,108889,115821.0
+C0249,Karan Naik,Male,27,Sales,Account Manager,2024-02-28,2024-03-03,2024-03-09,2024-03-11,2024-03-20,Hired,LinkedIn,3.2,41551,38956.0
+C0250,Ayesha Shetty,Female,28,Sales,Sales Executive,2024-09-11,2024-09-16,,,,Screened,LinkedIn,3.6,80541,
+C0251,Rohit Khan,Female,29,Sales,Software Engineer,2024-05-15,2024-05-18,2024-05-19,2024-05-21,,Offered,Website,2.4,90626,
+C0252,Amir Gupta,Male,27,Research & Development,HR Executive,2024-11-28,2024-12-03,2024-12-08,,,Interviewed,Career Page,2.8,36823,
+C0253,Preeti Deshmukh,Female,42,Research & Development,Research Assistant,2024-06-09,2024-06-10,2024-06-16,2024-06-20,2024-06-21,Hired,Indeed,5.1,66932,70279.0
+C0254,Mahesh Rao,Male,44,Sales,HR Executive,2024-09-14,2024-09-15,2024-09-20,2024-09-22,,Offered,Agency,4.4,104582,
+C0255,Manish Rao,Female,34,Human Resource,Data Analyst,2024-06-19,2024-06-21,2024-06-27,,,Interviewed,LinkedIn,1.4,98347,
+C0256,Mahesh Sharma,Female,26,Research & Development,Sales Executive,2024-04-30,2024-05-04,2024-05-06,,,Interviewed,Naukri,3.4,50303,
+C0257,Rohit More,Female,21,Research & Development,Research Assistant,2024-12-14,2024-12-18,2024-12-22,,,Interviewed,Agency,2.1,71466,
+C0258,Pragati Shetty,Female,34,Research & Development,Sales Executive,2024-03-27,2024-03-28,2024-04-02,,,Interviewed,Indeed,3.7,57711,
+C0259,Pragati Shetty,Male,25,Research & Development,HR Executive,2024-12-20,2024-12-22,2024-12-24,2024-12-26,2024-12-30,Hired,Website,10.1,105685,103358.0
+C0260,Sahil More,Male,29,Sales,Sales Executive,2024-06-17,2024-06-19,2024-06-22,2024-06-29,2024-07-05,Hired,Website,3.2,110774,111752.0
+C0261,Divya Singh,Male,27,Sales,Software Engineer,2024-05-12,2024-05-13,2024-05-19,2024-05-24,2024-06-03,Hired,LinkedIn,3.8,44424,41877.0
+C0262,Farhan Khan,Female,30,Research & Development,HR Executive,2024-01-14,2024-01-16,2024-01-22,2024-01-24,2024-02-01,Hired,Indeed,1.8,46166,47953.0
+C0263,Mahesh Patil,Female,31,Human Resource,Software Engineer,2024-08-04,2024-08-07,2024-08-13,2024-08-15,2024-08-22,Hired,Career Page,8.2,80419,84084.0
+C0264,Amir More,Female,21,Human Resource,Data Analyst,2024-12-27,,,,,Applied,Website,6.0,58097,
+C0265,Vivek Khan,Female,21,Sales,Research Assistant,2024-05-18,2024-05-22,2024-05-27,2024-06-02,2024-06-11,Hired,LinkedIn,7.0,41269,39942.0
+C0266,Divya Mehta,Male,33,Human Resource,Research Assistant,2024-08-22,2024-08-27,2024-09-01,2024-09-06,2024-09-08,Hired,Career Page,5.6,46928,49969.0
+C0267,Shubham Patil,Female,44,Sales,Research Assistant,2024-10-26,2024-10-28,2024-10-29,2024-10-31,,Offered,Indeed,3.4,90341,
+C0268,Pooja Patil,Male,33,Research & Development,Software Engineer,2024-05-08,2024-05-13,2024-05-16,,,Interviewed,Agency,4.8,102449,
+C0269,Sahil Kadam,Female,34,Human Resource,Data Analyst,2024-11-04,2024-11-09,2024-11-10,2024-11-12,2024-11-22,Hired,Career Page,10.2,104775,111770.0
+C0270,Sahil Kadam,Male,32,Research & Development,Research Assistant,2024-07-20,2024-07-23,2024-07-26,2024-08-02,2024-08-03,Hired,Career Page,8.4,98680,96784.0
+C0271,Sneha Singh,Male,35,Human Resource,Software Engineer,2024-03-04,2024-03-05,2024-03-11,2024-03-17,2024-03-18,Hired,LinkedIn,6.4,41406,44749.0
+C0272,Shubham Jain,Male,37,Human Resource,Account Manager,2024-12-26,2024-12-30,2025-01-02,2025-01-05,2025-01-06,Hired,Indeed,1.7,52439,52050.0
+C0273,Sneha Khan,Male,43,Research & Development,Data Analyst,2024-10-03,2024-10-04,2024-10-09,2024-10-12,2024-10-17,Hired,Website,5.8,45709,43995.0
+C0274,Preeti Jain,Female,35,Human Resource,Account Manager,2024-03-15,2024-03-16,2024-03-22,,,Interviewed,Website,8.8,77245,
+C0275,Pooja Jain,Female,27,Sales,Data Analyst,2024-01-13,2024-01-17,,,,Screened,Referral,3.1,118946,
+C0276,Riya Kadam,Male,31,Research & Development,Software Engineer,2024-03-18,,,,,Applied,Indeed,1.7,96179,
+C0277,Riya Patil,Female,40,Sales,Research Assistant,2024-08-25,2024-08-26,2024-08-27,2024-08-31,2024-09-02,Hired,Naukri,0.2,99157,98139.0
+C0278,Shubham Patil,Male,45,Sales,HR Executive,2024-10-03,2024-10-06,2024-10-11,2024-10-12,2024-10-17,Hired,Website,9.7,103080,104248.0
+C0279,Divya Naik,Male,44,Human Resource,Data Analyst,2024-12-12,2024-12-16,2024-12-17,,,Interviewed,Referral,1.4,90944,
+C0280,Preeti Deshmukh,Female,29,Sales,Software Engineer,2024-07-24,2024-07-25,2024-07-27,2024-08-01,2024-08-07,Hired,Indeed,5.5,59381,61540.0
+C0281,Amit Singh,Female,23,Sales,Research Assistant,2024-11-21,2024-11-23,2024-11-26,,,Interviewed,LinkedIn,3.8,66568,
+C0282,Riya Qureshi,Male,34,Sales,Account Manager,2024-11-29,2024-12-04,2024-12-07,2024-12-09,2024-12-14,Hired,LinkedIn,10.9,116103,120202.0
+C0283,Divya Singh,Female,32,Sales,Software Engineer,2024-03-13,2024-03-18,2024-03-23,2024-03-30,,Offered,LinkedIn,9.6,60161,
+C0284,Raj Patil,Female,45,Human Resource,HR Executive,2024-04-16,,,,,Applied,Referral,4.4,41154,
+C0285,Farhan Deshmukh,Female,22,Research & Development,Research Assistant,2024-04-25,2024-04-30,2024-05-05,2024-05-09,2024-05-19,Hired,Agency,4.6,91531,89018.0
+C0286,Sneha Jain,Male,41,Research & Development,Account Manager,2024-01-21,2024-01-26,2024-01-28,,,Interviewed,Career Page,7.9,101038,
+C0287,Sahil Sawant,Male,22,Research & Development,Sales Executive,2024-01-22,2024-01-26,2024-01-27,2024-01-30,,Offered,Agency,4.1,75853,
+C0288,Shubham Deshmukh,Male,29,Human Resource,Data Analyst,2024-05-09,2024-05-13,2024-05-16,2024-05-18,2024-05-25,Hired,Naukri,9.1,80985,84631.0
+C0289,Manish Jain,Female,21,Research & Development,Sales Executive,2024-09-23,2024-09-26,2024-10-01,,,Interviewed,LinkedIn,11.6,76038,
+C0290,Riya Patil,Male,43,Human Resource,HR Executive,2024-05-15,2024-05-18,2024-05-24,2024-05-27,,Offered,Indeed,5.1,68327,
+C0291,Pooja Gupta,Male,40,Sales,Research Assistant,2024-02-16,,,,,Applied,Agency,9.6,44659,
+C0292,Karan Yadav,Male,34,Human Resource,Data Analyst,2024-12-11,2024-12-15,2024-12-18,2024-12-25,2024-12-26,Hired,Referral,10.0,60388,64368.0
+C0293,Karan More,Female,45,Human Resource,Software Engineer,2024-01-07,2024-01-10,2024-01-17,,,Interviewed,Indeed,9.8,85331,
+C0294,Divya Khan,Female,38,Research & Development,HR Executive,2024-03-05,2024-03-07,2024-03-10,2024-03-17,2024-03-21,Hired,Indeed,3.9,30975,28605.0
+C0295,Sahil Yadav,Male,39,Sales,Sales Executive,2024-09-08,2024-09-09,2024-09-14,2024-09-20,2024-09-26,Hired,Indeed,2.6,56434,53445.0
+C0296,Rohit Naik,Male,42,Sales,Research Assistant,2024-04-15,2024-04-20,,,,Screened,Website,5.0,28704,
+C0297,Mahesh Khan,Female,34,Research & Development,Sales Executive,2024-10-02,2024-10-06,2024-10-11,,,Interviewed,Referral,11.3,28397,
+C0298,Preeti Shetty,Male,42,Human Resource,Account Manager,2024-03-08,2024-03-12,2024-03-13,2024-03-20,2024-03-25,Hired,Referral,11.1,48078,50084.0
+C0299,Neha Jain,Male,27,Sales,Account Manager,2024-03-16,,,,,Applied,LinkedIn,11.3,92880,
+C0300,Raj Jain,Male,42,Sales,Software Engineer,2024-09-22,2024-09-25,2024-10-02,2024-10-04,2024-10-12,Hired,Indeed,11.6,95028,94601.0
+C0301,Divya Deshmukh,Female,29,Research & Development,Account Manager,2024-01-13,2024-01-18,2024-01-22,,,Interviewed,Website,6.6,53539,
+C0302,Karan Naik,Male,43,Sales,Software Engineer,2024-11-26,2024-11-27,2024-11-29,2024-11-30,,Offered,Agency,0.4,89494,
+C0303,Pragati Patil,Female,24,Sales,HR Executive,2024-02-16,2024-02-17,2024-02-24,2024-02-27,2024-03-04,Hired,Website,11.6,91949,90316.0
+C0304,Preeti Naik,Male,41,Sales,Sales Executive,2024-04-21,2024-04-25,2024-04-29,2024-05-01,2024-05-10,Hired,LinkedIn,9.7,61959,62784.0
+C0305,Rohit Naik,Female,29,Sales,Account Manager,2024-11-16,2024-11-19,,,,Screened,LinkedIn,10.8,114544,
+C0306,Sahil Singh,Female,39,Research & Development,Data Analyst,2024-12-25,2024-12-30,2025-01-02,2025-01-05,,Offered,Naukri,5.5,100089,
+C0307,Ayesha Rao,Female,23,Research & Development,Account Manager,2024-01-13,2024-01-14,,,,Screened,Agency,4.0,112923,
+C0308,Sahil Kadam,Male,37,Human Resource,Research Assistant,2024-01-15,2024-01-16,2024-01-22,2024-01-26,2024-01-29,Hired,Agency,8.4,47954,46282.0
+C0309,Sahil Gupta,Male,25,Human Resource,Software Engineer,2024-03-31,2024-04-01,2024-04-08,2024-04-13,2024-04-14,Hired,Indeed,6.7,86350,91209.0
+C0310,Riya Yadav,Male,35,Research & Development,Data Analyst,2024-08-20,2024-08-24,2024-08-25,,,Interviewed,Indeed,8.2,111917,
+C0311,Sneha Gupta,Male,27,Research & Development,Sales Executive,2024-07-31,,,,,Applied,Naukri,0.2,75381,
+C0312,Amit Iyer,Female,41,Research & Development,HR Executive,2024-03-23,2024-03-28,,,,Screened,Career Page,10.2,73565,
+C0313,Amit Mehta,Male,21,Sales,Sales Executive,2024-10-24,2024-10-28,2024-10-30,2024-10-31,,Offered,Agency,2.9,39921,
+C0314,Rohit Iyer,Female,24,Sales,Software Engineer,2024-07-13,2024-07-15,2024-07-19,2024-07-22,2024-07-30,Hired,Website,2.2,104652,109619.0
+C0315,Preeti Kadam,Male,31,Sales,Data Analyst,2024-05-12,,,,,Applied,Referral,0.5,33349,
+C0316,Lakshmi More,Female,45,Sales,Account Manager,2024-01-15,2024-01-17,2024-01-20,2024-01-26,2024-02-04,Hired,LinkedIn,2.3,45577,45687.0
+C0317,Preeti Sharma,Female,45,Human Resource,Account Manager,2024-05-17,2024-05-18,2024-05-23,,,Interviewed,Agency,8.2,55204,
+C0318,Vivek Shetty,Male,34,Human Resource,Sales Executive,2024-02-28,2024-03-04,2024-03-10,,,Interviewed,Referral,8.3,62323,
+C0319,Manish Naik,Male,22,Sales,Data Analyst,2024-09-16,2024-09-19,2024-09-21,2024-09-26,2024-10-02,Hired,Naukri,2.0,46879,50588.0
+C0320,Divya Patil,Male,43,Research & Development,Sales Executive,2024-08-01,2024-08-05,2024-08-12,2024-08-13,2024-08-21,Hired,Naukri,0.6,40548,40808.0
+C0321,Sahil Sharma,Female,33,Human Resource,HR Executive,2024-09-29,2024-09-30,2024-10-01,2024-10-03,2024-10-07,Hired,LinkedIn,3.6,48396,46569.0
+C0322,Mahesh Qureshi,Female,25,Research & Development,HR Executive,2024-01-10,2024-01-11,2024-01-15,2024-01-17,2024-01-27,Hired,Website,10.6,51534,54841.0
+C0323,Shubham Iyer,Female,26,Sales,Account Manager,2024-08-24,2024-08-29,2024-09-01,,,Interviewed,LinkedIn,10.8,106726,
+C0324,Manish Kadam,Female,30,Human Resource,Account Manager,2024-06-30,2024-07-03,2024-07-07,2024-07-09,,Offered,LinkedIn,4.5,94915,
+C0325,Riya More,Male,22,Human Resource,Data Analyst,2024-06-14,2024-06-18,,,,Screened,Naukri,0.3,79087,
+C0326,Riya Khan,Male,33,Research & Development,HR Executive,2024-03-22,2024-03-26,2024-04-02,,,Interviewed,Indeed,4.5,96379,
+C0327,Ayesha Yadav,Male,41,Human Resource,Account Manager,2024-06-21,2024-06-26,2024-07-02,2024-07-08,,Offered,Website,7.2,43383,
+C0328,Manish Iyer,Male,39,Research & Development,Software Engineer,2024-06-27,2024-06-30,2024-07-04,,,Interviewed,Referral,2.3,109518,
+C0329,Pragati Jain,Male,40,Sales,Software Engineer,2024-09-22,,,,,Applied,LinkedIn,2.1,59028,
+C0330,Vivek Singh,Female,21,Research & Development,Sales Executive,2024-03-01,2024-03-02,2024-03-05,2024-03-11,,Offered,Website,5.8,48073,
+C0331,Pragati Gupta,Female,31,Human Resource,HR Executive,2024-09-11,2024-09-13,,,,Screened,Agency,3.8,30153,
+C0332,Preeti Singh,Female,33,Human Resource,Software Engineer,2024-12-24,2024-12-29,2025-01-03,2025-01-10,2025-01-16,Hired,Career Page,6.0,110167,107251.0
+C0333,Pooja Sawant,Male,27,Research & Development,Account Manager,2024-03-27,2024-03-31,2024-04-02,2024-04-08,,Offered,Website,11.7,40121,
+C0334,Manish Deshmukh,Male,39,Sales,Research Assistant,2024-10-04,2024-10-06,2024-10-11,2024-10-16,,Offered,Naukri,6.3,88486,
+C0335,Preeti Mehta,Female,37,Sales,Software Engineer,2024-09-25,2024-09-26,2024-10-01,2024-10-05,2024-10-07,Hired,Website,1.2,71002,71865.0
+C0336,Mahesh Singh,Male,37,Research & Development,Sales Executive,2024-10-07,2024-10-10,2024-10-16,,,Interviewed,LinkedIn,5.4,71065,
+C0337,Vivek Khan,Female,40,Human Resource,HR Executive,2024-06-14,2024-06-17,2024-06-19,,,Interviewed,Naukri,7.6,82331,
+C0338,Amir Sawant,Female,34,Human Resource,Account Manager,2024-10-27,2024-10-30,2024-11-03,2024-11-09,2024-11-10,Hired,Referral,10.6,60660,58362.0
+C0339,Raj Qureshi,Female,23,Human Resource,Account Manager,2024-10-07,2024-10-12,2024-10-14,2024-10-19,,Offered,Indeed,1.4,113455,
+C0340,Pragati Deshmukh,Male,31,Sales,Sales Executive,2024-12-09,2024-12-14,2024-12-17,,,Interviewed,Indeed,1.8,40631,
+C0341,Manish Yadav,Male,45,Sales,Sales Executive,2024-08-01,2024-08-03,2024-08-08,,,Interviewed,Agency,8.8,109011,
+C0342,Preeti Mehta,Male,27,Human Resource,Account Manager,2024-01-12,2024-01-13,2024-01-14,,,Interviewed,Naukri,9.5,93358,
+C0343,Karan Shetty,Male,40,Research & Development,Research Assistant,2024-10-18,2024-10-20,2024-10-21,2024-10-23,,Offered,LinkedIn,10.0,36561,
+C0344,Karan Khan,Male,26,Sales,Data Analyst,2024-10-09,2024-10-14,2024-10-18,,,Interviewed,Career Page,0.6,81047,
+C0345,Mahesh Singh,Female,38,Human Resource,Data Analyst,2024-11-23,2024-11-24,2024-11-28,2024-12-03,2024-12-06,Hired,Naukri,3.9,32277,32156.0
+C0346,Lakshmi Sawant,Male,36,Human Resource,Research Assistant,2024-03-03,,,,,Applied,LinkedIn,4.0,97566,
+C0347,Neha Khan,Female,34,Research & Development,Research Assistant,2024-07-22,2024-07-23,2024-07-25,2024-07-30,2024-08-05,Hired,Agency,2.5,28349,29542.0
+C0348,Manish Singh,Female,43,Research & Development,HR Executive,2024-06-21,2024-06-25,2024-07-01,,,Interviewed,Referral,3.8,89103,
+C0349,Lakshmi Jain,Male,33,Sales,Software Engineer,2024-06-02,2024-06-05,2024-06-06,2024-06-08,2024-06-14,Hired,Naukri,5.3,88177,88980.0
+C0350,Farhan Patil,Female,37,Human Resource,Research Assistant,2024-07-10,2024-07-14,2024-07-19,,,Interviewed,Career Page,3.9,50317,
+C0351,Amir Iyer,Female,29,Sales,HR Executive,2024-09-27,2024-09-28,2024-09-29,,,Interviewed,LinkedIn,6.3,100431,
+C0352,Riya More,Female,26,Research & Development,HR Executive,2024-05-26,2024-05-30,2024-06-03,2024-06-06,,Offered,LinkedIn,10.2,48123,
+C0353,Preeti Shetty,Male,37,Research & Development,Research Assistant,2024-07-25,2024-07-29,2024-07-30,2024-08-01,2024-08-11,Hired,Naukri,1.8,99676,99721.0
+C0354,Mahesh Patil,Male,27,Human Resource,Sales Executive,2024-06-20,2024-06-25,2024-06-28,2024-07-05,,Offered,Naukri,1.7,38027,
+C0355,Ayesha More,Female,22,Research & Development,Account Manager,2024-11-14,2024-11-19,2024-11-22,2024-11-25,2024-11-30,Hired,Naukri,0.8,99547,105845.0
+C0356,Divya Patil,Male,36,Research & Development,Data Analyst,2024-11-13,2024-11-18,,,,Screened,Agency,2.7,32465,
+C0357,Lakshmi Deshmukh,Male,22,Sales,HR Executive,2024-03-11,2024-03-15,2024-03-18,2024-03-22,,Offered,Naukri,2.2,27113,
+C0358,Pooja Deshmukh,Male,35,Sales,Account Manager,2024-11-24,2024-11-25,2024-12-02,2024-12-08,2024-12-11,Hired,LinkedIn,0.3,45342,51326.0
+C0359,Vivek Rao,Female,36,Sales,Research Assistant,2024-09-10,2024-09-14,2024-09-15,2024-09-16,2024-09-18,Hired,Agency,7.5,65644,69517.0
+C0360,Pragati Deshmukh,Female,32,Human Resource,Data Analyst,2024-01-25,2024-01-27,2024-02-03,2024-02-04,2024-02-14,Hired,Career Page,2.9,47515,49194.0
+C0361,Manish Iyer,Female,34,Human Resource,Data Analyst,2024-02-14,2024-02-18,2024-02-23,2024-02-25,2024-03-01,Hired,Website,0.5,88521,91148.0
+C0362,Raj Yadav,Male,33,Human Resource,Software Engineer,2024-03-03,2024-03-05,2024-03-08,2024-03-15,2024-03-20,Hired,Website,10.3,97661,95393.0
+C0363,Farhan Yadav,Male,21,Human Resource,HR Executive,2024-10-24,2024-10-26,2024-11-01,2024-11-03,2024-11-08,Hired,Naukri,11.3,56504,60375.0
+C0364,Raj Shetty,Female,41,Research & Development,Research Assistant,2024-01-05,2024-01-06,2024-01-08,2024-01-11,2024-01-19,Hired,Referral,8.2,82161,87301.0
+C0365,Neha Naik,Female,22,Sales,Account Manager,2024-09-18,2024-09-23,2024-09-29,,,Interviewed,Referral,7.7,40008,
+C0366,Mahesh Shetty,Female,23,Sales,Data Analyst,2024-08-01,2024-08-05,2024-08-06,,,Interviewed,Referral,3.8,55629,
+C0367,Divya Singh,Male,21,Human Resource,Account Manager,2024-01-22,2024-01-23,2024-01-27,2024-01-29,2024-02-08,Hired,Indeed,0.1,34917,36966.0
+C0368,Rohit Sawant,Female,29,Sales,Account Manager,2024-07-29,2024-08-01,2024-08-02,,,Interviewed,Naukri,8.6,87802,
+C0369,Ayesha Deshmukh,Male,28,Human Resource,HR Executive,2024-09-30,2024-10-03,2024-10-09,2024-10-14,2024-10-23,Hired,Agency,3.3,85450,90885.0
+C0370,Rohit Singh,Male,24,Sales,Software Engineer,2024-02-04,,,,,Applied,Indeed,11.4,27296,
+C0371,Ayesha Patil,Female,42,Human Resource,Data Analyst,2024-02-06,2024-02-08,2024-02-12,2024-02-17,,Offered,Referral,1.9,32257,
+C0372,Ayesha Khan,Female,40,Research & Development,HR Executive,2024-04-06,2024-04-07,2024-04-09,2024-04-11,2024-04-21,Hired,Agency,2.3,108279,113392.0
+C0373,Karan Rao,Female,29,Sales,Sales Executive,2024-08-17,2024-08-20,2024-08-25,2024-08-28,2024-09-04,Hired,Agency,1.8,90723,90105.0
+C0374,Manish Iyer,Female,30,Sales,Research Assistant,2024-07-31,2024-08-01,2024-08-08,,,Interviewed,Naukri,0.0,93312,
+C0375,Preeti Kadam,Female,43,Sales,Sales Executive,2024-09-19,2024-09-20,2024-09-25,,,Interviewed,Website,7.3,116544,
+C0376,Divya Naik,Male,25,Research & Development,Software Engineer,2024-11-30,,,,,Applied,Career Page,10.4,103921,
+C0377,Sahil Yadav,Male,29,Sales,Sales Executive,2024-08-06,,,,,Applied,Website,6.1,57109,
+C0378,Karan Khan,Male,42,Human Resource,Data Analyst,2024-05-05,2024-05-10,2024-05-12,2024-05-19,2024-05-27,Hired,Website,4.5,69394,72358.0
+C0379,Raj Shetty,Female,23,Human Resource,HR Executive,2024-12-31,,,,,Applied,Referral,0.6,99188,
+C0380,Riya Singh,Female,42,Research & Development,Research Assistant,2024-02-24,2024-02-28,2024-03-05,2024-03-08,2024-03-12,Hired,Referral,0.3,54635,58081.0
+C0381,Amit Iyer,Male,31,Research & Development,HR Executive,2024-11-22,2024-11-25,2024-11-29,2024-12-05,2024-12-06,Hired,LinkedIn,0.2,99023,102981.0
+C0382,Divya Yadav,Female,28,Research & Development,Account Manager,2024-09-11,2024-09-13,2024-09-16,,,Interviewed,LinkedIn,3.9,118657,
+C0383,Preeti Patil,Female,27,Human Resource,Sales Executive,2024-03-17,2024-03-19,2024-03-24,,,Interviewed,Agency,11.2,83037,
+C0384,Pooja Kadam,Male,28,Sales,Data Analyst,2024-09-03,2024-09-05,2024-09-09,,,Interviewed,Naukri,6.9,32106,
+C0385,Raj Khan,Male,39,Sales,HR Executive,2024-01-18,2024-01-22,2024-01-28,2024-02-01,2024-02-02,Hired,Indeed,5.9,52388,55099.0
+C0386,Karan More,Female,43,Research & Development,Research Assistant,2024-01-22,2024-01-25,2024-01-27,2024-01-29,2024-01-30,Hired,Website,1.7,56809,60506.0
+C0387,Vivek Deshmukh,Male,39,Human Resource,HR Executive,2024-08-20,2024-08-23,2024-08-29,,,Interviewed,Naukri,9.6,67009,
+C0388,Farhan Yadav,Female,39,Sales,Software Engineer,2024-10-12,2024-10-15,2024-10-18,,,Interviewed,Indeed,4.9,59743,
+C0389,Vivek Naik,Female,33,Research & Development,Data Analyst,2024-11-11,2024-11-16,2024-11-19,,,Interviewed,Career Page,10.9,98710,
+C0390,Sneha Khan,Male,30,Human Resource,Research Assistant,2024-12-07,,,,,Applied,Career Page,11.6,55974,
+C0391,Vivek Sawant,Male,41,Human Resource,Data Analyst,2024-07-17,2024-07-22,2024-07-27,2024-08-01,,Offered,LinkedIn,8.9,117744,
+C0392,Farhan Iyer,Female,38,Research & Development,Data Analyst,2024-09-24,,,,,Applied,Referral,6.8,79027,
+C0393,Ayesha Sharma,Female,36,Human Resource,Data Analyst,2024-05-01,2024-05-02,2024-05-03,2024-05-07,,Offered,Website,0.7,32826,
+C0394,Preeti Qureshi,Male,28,Human Resource,Sales Executive,2024-03-24,2024-03-29,2024-03-31,2024-04-07,2024-04-16,Hired,Career Page,8.4,101673,107124.0
+C0395,Amit More,Female,26,Human Resource,Research Assistant,2024-01-17,2024-01-22,2024-01-24,2024-01-29,2024-02-07,Hired,Career Page,7.9,31976,31964.0
+C0396,Lakshmi Sawant,Female,31,Research & Development,Software Engineer,2024-01-19,2024-01-21,,,,Screened,LinkedIn,5.3,87762,
+C0397,Lakshmi Patil,Male,29,Research & Development,Software Engineer,2024-03-17,,,,,Applied,Indeed,0.9,77403,
+C0398,Sneha Mehta,Female,28,Human Resource,HR Executive,2024-01-27,2024-01-30,2024-02-04,2024-02-06,2024-02-07,Hired,Naukri,1.3,101272,99371.0
+C0399,Amit Shetty,Male,41,Research & Development,Software Engineer,2024-02-16,2024-02-21,2024-02-26,2024-02-27,2024-03-02,Hired,Website,5.0,109577,110895.0
+C0400,Pooja Iyer,Female,21,Human Resource,Account Manager,2024-05-16,2024-05-17,2024-05-19,2024-05-20,2024-05-27,Hired,Website,3.1,47317,53271.0
+C0401,Shubham Rao,Male,41,Research & Development,Software Engineer,2024-12-25,2024-12-28,2025-01-03,2025-01-09,2025-01-17,Hired,Website,5.4,75805,74985.0
+C0402,Farhan Rao,Male,36,Sales,Research Assistant,2024-09-24,2024-09-25,2024-09-27,2024-09-28,2024-10-03,Hired,Agency,1.9,75575,77131.0
+C0403,Pooja Kadam,Male,25,Human Resource,Sales Executive,2024-07-23,2024-07-26,2024-07-27,2024-07-31,2024-08-06,Hired,Indeed,0.9,54964,57925.0
+C0404,Mahesh Sharma,Male,41,Sales,Account Manager,2024-05-27,2024-05-30,2024-05-31,2024-06-06,2024-06-12,Hired,Career Page,2.0,58475,63067.0
+C0405,Neha More,Male,42,Research & Development,HR Executive,2024-04-03,,,,,Applied,Naukri,7.7,79949,
+C0406,Pragati Qureshi,Male,24,Sales,Account Manager,2024-09-20,2024-09-23,2024-09-27,2024-09-30,2024-10-02,Hired,Indeed,4.0,47380,48223.0
+C0407,Lakshmi Yadav,Male,44,Research & Development,HR Executive,2024-04-06,2024-04-07,2024-04-13,2024-04-14,2024-04-24,Hired,Naukri,6.7,30517,28637.0
+C0408,Mahesh Singh,Male,23,Human Resource,Software Engineer,2024-02-15,2024-02-20,2024-02-24,2024-02-25,2024-03-06,Hired,Website,6.0,89488,91233.0
+C0409,Ayesha Qureshi,Female,39,Human Resource,Software Engineer,2024-08-11,2024-08-15,2024-08-20,2024-08-25,2024-08-26,Hired,Indeed,8.5,50094,51206.0
+C0410,Sahil Shetty,Male,21,Human Resource,HR Executive,2024-06-17,2024-06-21,2024-06-27,,,Interviewed,Referral,5.7,82275,
+C0411,Rohit Shetty,Female,38,Human Resource,Research Assistant,2024-04-08,2024-04-10,2024-04-12,2024-04-18,2024-04-22,Hired,Career Page,9.6,101431,104459.0
+C0412,Sahil Qureshi,Female,24,Sales,Research Assistant,2024-11-25,2024-11-27,,,,Screened,Agency,2.5,108411,
+C0413,Divya Naik,Male,38,Human Resource,Sales Executive,2024-11-23,2024-11-24,2024-11-28,2024-12-02,,Offered,Website,8.7,104544,
+C0414,Amit Deshmukh,Male,37,Human Resource,Data Analyst,2024-06-21,2024-06-25,2024-06-26,2024-06-29,2024-07-03,Hired,Website,10.3,55099,58570.0
+C0415,Mahesh Sharma,Male,39,Human Resource,Research Assistant,2024-09-10,2024-09-14,2024-09-20,2024-09-27,,Offered,Website,4.0,42342,
+C0416,Vivek Iyer,Male,30,Sales,Sales Executive,2024-06-09,2024-06-13,2024-06-17,2024-06-18,2024-06-24,Hired,LinkedIn,11.7,92789,95273.0
+C0417,Raj Mehta,Male,23,Human Resource,Account Manager,2024-03-17,2024-03-18,2024-03-25,2024-03-27,2024-04-03,Hired,Website,4.9,50018,48464.0
+C0418,Sneha Qureshi,Female,37,Sales,Sales Executive,2024-04-29,2024-05-02,2024-05-03,,,Interviewed,Career Page,6.0,56598,
+C0419,Farhan Patil,Female,29,Research & Development,HR Executive,2024-09-06,2024-09-10,2024-09-17,2024-09-23,2024-10-03,Hired,Career Page,5.1,50891,55949.0
+C0420,Pragati Khan,Female,37,Research & Development,Software Engineer,2024-02-16,2024-02-17,2024-02-21,,,Interviewed,Website,8.1,36895,
+C0421,Farhan Sharma,Female,42,Human Resource,Software Engineer,2024-06-06,,,,,Applied,Website,7.5,37031,
+C0422,Preeti Iyer,Male,22,Research & Development,Account Manager,2024-07-11,2024-07-16,2024-07-21,2024-07-25,2024-08-04,Hired,Indeed,1.4,57824,60304.0
+C0423,Pragati Deshmukh,Female,31,Human Resource,Sales Executive,2024-04-04,2024-04-07,2024-04-11,,,Interviewed,Referral,8.4,29885,
+C0424,Amit Iyer,Male,31,Human Resource,HR Executive,2024-03-06,2024-03-08,2024-03-14,2024-03-21,2024-03-23,Hired,Naukri,0.8,77153,76030.0
+C0425,Vivek Gupta,Male,41,Sales,Sales Executive,2024-02-27,2024-03-01,2024-03-06,,,Interviewed,Indeed,1.4,47438,
+C0426,Sneha Iyer,Male,37,Sales,Account Manager,2024-04-17,2024-04-22,2024-04-27,2024-05-04,2024-05-09,Hired,Indeed,1.0,51962,49050.0
+C0427,Divya Iyer,Female,43,Sales,Account Manager,2024-08-17,,,,,Applied,Website,6.8,57906,
+C0428,Riya Khan,Male,37,Research & Development,HR Executive,2024-01-13,2024-01-14,2024-01-16,2024-01-17,2024-01-23,Hired,Website,3.0,43990,48668.0
+C0429,Lakshmi Iyer,Female,21,Research & Development,Sales Executive,2024-08-12,2024-08-16,2024-08-23,,,Interviewed,Career Page,6.2,60945,
+C0430,Sneha Iyer,Female,23,Sales,Data Analyst,2024-10-06,2024-10-09,2024-10-12,2024-10-13,2024-10-20,Hired,Naukri,2.3,62047,61036.0
+C0431,Riya Singh,Female,24,Sales,HR Executive,2024-06-16,,,,,Applied,Indeed,11.4,71983,
+C0432,Rohit Qureshi,Male,35,Research & Development,Sales Executive,2024-08-20,2024-08-23,2024-08-26,2024-09-01,2024-09-05,Hired,Naukri,6.4,38253,42539.0
+C0433,Shubham Jain,Male,37,Human Resource,Research Assistant,2024-07-17,2024-07-21,2024-07-26,2024-07-27,,Offered,Agency,4.2,58945,
+C0434,Preeti Yadav,Female,38,Research & Development,Research Assistant,2024-11-25,2024-11-26,,,,Screened,Website,11.5,55597,
+C0435,Manish Gupta,Female,38,Sales,Software Engineer,2024-07-31,2024-08-02,,,,Screened,Indeed,5.4,85888,
+C0436,Pooja Rao,Male,34,Human Resource,Sales Executive,2024-10-08,2024-10-09,2024-10-10,,,Interviewed,Career Page,3.0,43960,
+C0437,Pragati Qureshi,Male,28,Sales,HR Executive,2024-09-13,,,,,Applied,Website,1.8,119641,
+C0438,Lakshmi Mehta,Male,33,Human Resource,HR Executive,2024-07-07,2024-07-08,2024-07-09,,,Interviewed,Indeed,8.9,57029,
+C0439,Amir Khan,Male,37,Sales,Software Engineer,2024-07-08,2024-07-13,2024-07-18,,,Interviewed,Agency,3.5,97778,
+C0440,Divya Deshmukh,Female,37,Research & Development,HR Executive,2024-02-09,2024-02-14,2024-02-17,2024-02-19,2024-02-25,Hired,LinkedIn,1.9,32613,35356.0
+C0441,Farhan Singh,Female,41,Human Resource,Data Analyst,2024-09-24,2024-09-26,2024-09-27,,,Interviewed,Indeed,4.9,50494,
+C0442,Mahesh Yadav,Male,37,Sales,HR Executive,2024-08-13,2024-08-14,,,,Screened,Indeed,11.0,93775,
+C0443,Lakshmi Khan,Female,41,Sales,HR Executive,2024-05-07,2024-05-10,2024-05-12,2024-05-15,2024-05-25,Hired,Referral,6.0,108420,111782.0
+C0444,Ayesha Khan,Female,33,Sales,Account Manager,2024-07-31,2024-08-05,2024-08-08,2024-08-11,2024-08-15,Hired,Naukri,8.3,83309,81949.0
+C0445,Preeti Kadam,Male,21,Sales,Research Assistant,2024-09-02,2024-09-03,2024-09-06,2024-09-11,2024-09-20,Hired,Naukri,9.4,64823,62466.0
+C0446,Pooja Singh,Female,41,Sales,Data Analyst,2024-10-21,2024-10-23,2024-10-30,,,Interviewed,Referral,1.9,104507,
+C0447,Pooja Patil,Female,32,Human Resource,HR Executive,2024-03-08,,,,,Applied,Naukri,9.7,118229,
+C0448,Sahil Patil,Male,29,Research & Development,Data Analyst,2024-12-02,2024-12-05,2024-12-10,,,Interviewed,Naukri,9.7,65744,
+C0449,Mahesh Mehta,Female,33,Human Resource,Software Engineer,2024-02-20,2024-02-24,,,,Screened,Referral,10.6,82913,
+C0450,Riya Sawant,Female,36,Research & Development,Account Manager,2024-12-13,2024-12-15,2024-12-19,2024-12-21,2024-12-23,Hired,Naukri,6.3,58819,64742.0
+C0451,Neha Rao,Female,32,Sales,Account Manager,2024-12-07,2024-12-09,2024-12-11,,,Interviewed,Indeed,7.2,90967,
+C0452,Manish Iyer,Male,34,Research & Development,Research Assistant,2024-10-03,2024-10-08,2024-10-10,2024-10-11,2024-10-17,Hired,Referral,7.4,99511,97546.0
+C0453,Riya Qureshi,Female,25,Research & Development,Account Manager,2024-06-27,2024-06-30,2024-07-07,2024-07-10,,Offered,Indeed,8.2,66921,
+C0454,Mahesh Patil,Male,21,Research & Development,Account Manager,2024-06-14,2024-06-19,,,,Screened,Website,11.0,27620,
+C0455,Pooja Shetty,Male,42,Human Resource,Software Engineer,2024-05-09,2024-05-13,,,,Screened,Indeed,0.7,88546,
+C0456,Divya Khan,Female,34,Sales,Research Assistant,2024-12-18,2024-12-21,2024-12-24,2024-12-25,,Offered,LinkedIn,1.1,116880,
+C0457,Vivek Kadam,Female,41,Human Resource,Software Engineer,2024-11-16,2024-11-21,2024-11-25,,,Interviewed,Agency,2.5,42322,
+C0458,Mahesh Kadam,Female,21,Human Resource,Data Analyst,2024-01-02,2024-01-03,2024-01-05,2024-01-09,2024-01-11,Hired,LinkedIn,1.1,67546,70110.0
+C0459,Shubham Yadav,Male,30,Human Resource,Software Engineer,2024-02-14,2024-02-16,2024-02-21,,,Interviewed,Referral,1.4,42286,
+C0460,Sneha Naik,Female,45,Human Resource,Research Assistant,2024-07-18,,,,,Applied,Career Page,1.0,31951,
+C0461,Raj Qureshi,Female,34,Research & Development,Sales Executive,2024-11-09,2024-11-11,2024-11-14,2024-11-15,2024-11-16,Hired,LinkedIn,0.3,27786,28801.0
+C0462,Mahesh Patil,Female,27,Sales,HR Executive,2024-12-05,2024-12-08,2024-12-10,2024-12-17,2024-12-19,Hired,LinkedIn,2.3,85599,91463.0
+C0463,Raj Sharma,Female,42,Human Resource,Software Engineer,2024-08-11,2024-08-16,2024-08-23,2024-08-26,2024-08-27,Hired,Website,9.7,48885,50684.0
+C0464,Lakshmi Sharma,Female,29,Research & Development,Research Assistant,2024-08-14,2024-08-17,,,,Screened,Agency,4.9,86297,
+C0465,Pooja Patil,Female,26,Research & Development,Sales Executive,2024-02-26,2024-03-01,2024-03-06,2024-03-07,2024-03-13,Hired,LinkedIn,3.8,98281,101252.0
+C0466,Amir Kadam,Female,40,Human Resource,Account Manager,2024-01-17,2024-01-18,2024-01-25,,,Interviewed,Career Page,7.4,28317,
+C0467,Pooja Patil,Male,44,Sales,Account Manager,2024-11-06,2024-11-07,2024-11-10,,,Interviewed,Referral,4.7,46298,
+C0468,Amir Mehta,Female,21,Research & Development,Sales Executive,2024-04-06,2024-04-09,2024-04-12,2024-04-17,2024-04-26,Hired,Website,5.0,53071,55448.0
+C0469,Rohit Iyer,Female,42,Sales,Account Manager,2024-06-01,2024-06-03,2024-06-04,2024-06-09,2024-06-19,Hired,Agency,9.4,38038,41120.0
+C0470,Farhan Rao,Male,26,Research & Development,Sales Executive,2024-07-22,2024-07-26,2024-08-02,,,Interviewed,LinkedIn,7.2,93127,
+C0471,Manish Shetty,Male,29,Sales,Data Analyst,2024-10-31,2024-11-04,2024-11-08,2024-11-11,,Offered,Indeed,10.8,107667,
+C0472,Vivek Patil,Male,34,Sales,Account Manager,2024-09-27,2024-09-29,2024-10-02,2024-10-07,2024-10-08,Hired,Agency,6.6,64067,63054.0
+C0473,Rohit Rao,Female,36,Human Resource,Software Engineer,2024-05-30,2024-06-01,,,,Screened,Agency,7.8,96422,
+C0474,Shubham Rao,Female,24,Research & Development,Account Manager,2024-09-24,2024-09-27,2024-10-03,,,Interviewed,Naukri,1.8,44047,
+C0475,Riya Khan,Male,45,Research & Development,HR Executive,2024-09-02,,,,,Applied,Agency,2.0,56314,
+C0476,Manish Kadam,Female,24,Human Resource,Sales Executive,2024-09-11,2024-09-13,2024-09-16,2024-09-17,2024-09-23,Hired,Agency,11.8,82392,83051.0
+C0477,Riya Khan,Female,24,Research & Development,Sales Executive,2024-02-13,2024-02-15,2024-02-18,2024-02-24,2024-02-27,Hired,Naukri,9.0,36566,36601.0
+C0478,Vivek Qureshi,Female,42,Human Resource,Sales Executive,2024-10-26,2024-10-28,2024-11-02,2024-11-04,,Offered,Agency,2.9,39621,
+C0479,Sahil Mehta,Male,39,Human Resource,Research Assistant,2024-02-18,2024-02-19,2024-02-26,,,Interviewed,LinkedIn,4.3,59820,
+C0480,Vivek Naik,Male,23,Research & Development,HR Executive,2024-08-20,,,,,Applied,Naukri,11.0,84399,
+C0481,Mahesh Jain,Male,35,Research & Development,Account Manager,2024-05-13,2024-05-18,2024-05-25,2024-05-27,2024-06-02,Hired,Career Page,3.9,112400,111012.0
+C0482,Ayesha Mehta,Female,39,Research & Development,Software Engineer,2024-09-03,2024-09-06,2024-09-09,2024-09-13,2024-09-19,Hired,Naukri,8.4,43490,42544.0
+C0483,Amir Patil,Female,37,Human Resource,Data Analyst,2024-04-05,2024-04-07,2024-04-11,2024-04-14,2024-04-16,Hired,Referral,0.2,106343,112007.0
+C0484,Rohit Kadam,Female,37,Sales,Account Manager,2024-12-29,2024-12-30,2025-01-04,2025-01-06,2025-01-07,Hired,Website,5.5,72541,72044.0
+C0485,Amit Deshmukh,Male,23,Human Resource,Sales Executive,2024-01-18,2024-01-21,,,,Screened,Naukri,2.7,26968,
+C0486,Shubham Kadam,Male,33,Sales,HR Executive,2024-12-20,2024-12-24,2024-12-27,2024-12-30,2024-12-31,Hired,Naukri,4.2,81658,86894.0
+C0487,Amir Mehta,Female,40,Research & Development,Data Analyst,2024-10-09,2024-10-11,,,,Screened,Naukri,7.0,30175,
+C0488,Riya Patil,Female,26,Sales,HR Executive,2024-01-02,2024-01-07,2024-01-11,2024-01-18,2024-01-19,Hired,Naukri,0.8,66263,66685.0
+C0489,Sahil Jain,Male,37,Research & Development,Research Assistant,2024-05-27,2024-06-01,2024-06-03,2024-06-06,,Offered,Website,6.9,99215,
+C0490,Preeti Sharma,Male,31,Research & Development,Data Analyst,2024-02-03,2024-02-06,2024-02-11,,,Interviewed,Career Page,11.7,31631,
+C0491,Mahesh Patil,Male,27,Sales,Account Manager,2024-12-09,2024-12-12,2024-12-16,,,Interviewed,Website,9.9,38934,
+C0492,Rohit Kadam,Male,33,Human Resource,Software Engineer,2024-11-12,,,,,Applied,Indeed,3.8,92887,
+C0493,Neha Patil,Female,26,Sales,Account Manager,2024-02-17,2024-02-22,2024-02-24,2024-03-01,,Offered,LinkedIn,3.4,79335,
+C0494,Neha Qureshi,Female,30,Human Resource,Research Assistant,2024-02-04,2024-02-06,2024-02-11,2024-02-18,2024-02-22,Hired,Agency,9.0,87508,88796.0
+C0495,Manish Naik,Female,38,Human Resource,Software Engineer,2024-07-09,2024-07-11,2024-07-15,2024-07-16,,Offered,Agency,0.9,46134,
+C0496,Karan Jain,Male,39,Human Resource,Research Assistant,2024-01-12,2024-01-17,2024-01-22,2024-01-27,2024-02-04,Hired,Website,8.4,91584,91033.0
+C0497,Pragati Qureshi,Male,26,Human Resource,Account Manager,2024-05-12,2024-05-17,2024-05-23,,,Interviewed,LinkedIn,9.6,50400,
+C0498,Raj Patil,Male,42,Sales,Data Analyst,2024-12-04,,,,,Applied,Referral,1.5,70620,
+C0499,Amir Iyer,Male,38,Human Resource,Account Manager,2024-09-16,2024-09-20,2024-09-23,2024-09-30,,Offered,Naukri,7.2,71886,
+C0500,Manish Sawant,Female,25,Research & Development,Data Analyst,2024-07-20,2024-07-24,2024-07-28,,,Interviewed,Website,0.5,116068,
